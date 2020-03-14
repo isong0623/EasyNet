@@ -1,10 +1,11 @@
 # EasyNet
 A more focused framework for network requests and parsing.
+
 https://blog.csdn.net/best335/article/details/104859525
+
 还在使用各种Bean么？还在声明各种接口请求方法吗？
 快尝试一下EasyNet吧，一个接口使用一个EasyNetApi对象，只需要定义好你需要请求的EasyNetApi对象，并在回调函数中完成回调就可以了。
 **从此解放你的双手，走上人生巅峰，迎娶白富美，暗示了这么多，还不快快尝试一下？**
-@[TOC](Easy全家桶之EasyNet)
 # [查看Easy全家桶](https://blog.csdn.net/best335/article/details/104842939)
 # 使用示例
 #### 添加依赖
