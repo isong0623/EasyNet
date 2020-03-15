@@ -84,7 +84,7 @@ public class Api {
 ```
 ###### 接口返回结果
 ```java
-E/TestNet: {"data":{"yesterday":{"date":"13日星期五","high":"高温 8℃","fx":"东北风","low":"低温 3℃","fl":"<![CDATA[3-4级]]>","type":"多云"},"city":"青岛","forecast":[{"date":"14日星期六","high":"高温 13℃","fengli":"<![CDATA[4-5级]]>","low":"低温 5℃","fengxiang":"西北风","type":"晴"},{"date":"15日星期天","high":"高温 13℃","fengli":"<![CDATA[4-5级]]>","low":"低温 1℃","fengxiang":"西北风","type":"晴"},{"date":"16日星期一","high":"高温 8℃","fengli":"<![CDATA[4-5级]]>","low":"低温 4℃","fengxiang":"西南风","type":"多云"},{"date":"17日星期二","high":"高温 15℃","fengli":"<![CDATA[4-5级]]>","low":"低温 9℃","fengxiang":"西北风","type":"多云"},{"date":"18日星期三","high":"高温 14℃","fengli":"<![CDATA[4-5级]]>","low":"低温 10℃","fengxiang":"南风","type":"晴"}],"ganmao":"昼夜温差大，风力较强，易发生感冒，请注意适当增减衣服，加强自我防护避免感冒。","wendu":"14"},"status":1000,"desc":"OK"}
+E/Api: {"data":{"yesterday":{"date":"13日星期五","high":"高温 8℃","fx":"东北风","low":"低温 3℃","fl":"<![CDATA[3-4级]]>","type":"多云"},"city":"青岛","forecast":[{"date":"14日星期六","high":"高温 13℃","fengli":"<![CDATA[4-5级]]>","low":"低温 5℃","fengxiang":"西北风","type":"晴"},{"date":"15日星期天","high":"高温 13℃","fengli":"<![CDATA[4-5级]]>","low":"低温 1℃","fengxiang":"西北风","type":"晴"},{"date":"16日星期一","high":"高温 8℃","fengli":"<![CDATA[4-5级]]>","low":"低温 4℃","fengxiang":"西南风","type":"多云"},{"date":"17日星期二","high":"高温 15℃","fengli":"<![CDATA[4-5级]]>","low":"低温 9℃","fengxiang":"西北风","type":"多云"},{"date":"18日星期三","high":"高温 14℃","fengli":"<![CDATA[4-5级]]>","low":"低温 10℃","fengxiang":"南风","type":"晴"}],"ganmao":"昼夜温差大，风力较强，易发生感冒，请注意适当增减衣服，加强自我防护避免感冒。","wendu":"14"},"status":1000,"desc":"OK"}
 E/EasyNet: EasyRequest:
     获取青岛天气->
     Id:0
